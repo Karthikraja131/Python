@@ -26,3 +26,5 @@
 number= 5
 print(number)
 print(type(number))
+long_number= 38937483949000
+print(long_number)
