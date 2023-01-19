@@ -36,3 +36,7 @@ no= 0b1011
 print(no)
 no1=0B1011
 print(no1)
+no2=0b11
+print(no2)
+
+
